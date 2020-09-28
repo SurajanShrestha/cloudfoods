@@ -1,0 +1,41 @@
+@media only screen and (max-width:768px){
+    .parallax-wrapper{
+        display: none;
+    }
+}
+@media only screen and (max-width:600px){
+    .logo img{
+        width:80px;
+    }
+    .nav-button{
+        font-size:13px;
+        margin-right:12px;
+    }
+    .banner-title {
+        font-size: 24px;
+    }
+    .main-title {
+        font-size: 18px;
+        line-height: 26px;
+        color: #eb3132;
+    }
+    .pic-shop li {
+        width: 44%;
+        margin: 6px;
+    }
+    .banner-2.bg-section{
+        background-position: left;
+    }
+    .banner{
+        background-image: url('../images/banner.jpg');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+    footer{
+        text-align: center;
+    }
+    .foot-note{
+        text-align: center;
+    }
+}

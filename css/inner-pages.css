@@ -1,0 +1,46 @@
+.custom-title h3{
+    font-size: 22px;
+    font-weight: 800;
+    color:#eb3132;
+}
+.custom-content p{
+    line-height: 30px;
+}
+.grey-text{
+    color: #b1b1b1;
+}
+.red-text{
+    color:#eb3132;
+}
+.bold-text{
+    font-weight: bold;
+}
+.custom-why:hover{
+    box-shadow: 0px 0px 6px 0px gray;
+}
+.custom-quote{
+    border: 1px solid #eb3132;
+    transition: border 0.2s;
+}
+.custom-quote:hover{
+    border: 5px solid #eb3132;
+    cursor: pointer;
+}
+.custom-small-btn{
+    width: 100px; 
+    font-size: 10px; 
+    padding: 2px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center; 
+    display: block;
+}
+.grey-box{
+    background: rgb(248, 248, 248);
+    border: 1px solid gainsboro;
+}
+.grey-box:hover{
+    background: white;
+    cursor: pointer;
+    color: #eb3132
+}
